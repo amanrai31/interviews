@@ -4,12 +4,14 @@
 
 1. DSA, JAVA basics, PgSQL  [repo- https://github.com/amanrai31/JavaAndDsa]
 
-- JAVA => JAVA Basics, collection, thread, garbage collection
+- JAVA => JAVA Basics,OOPS, collection, thread, garbage collection
 - DSA => list, map, tree, graph, recurssion, backtracking, DP, ALGOs
 - PgSQL => Basic quries, Transections(ACID), Indexes, DB Administration
 
 
 2. FrontEnd
+[FrontEndTech repo - https://github.com/amanrai31/frontendTech]
+[React repo - https://github.com/amanrai31/React1  https://github.com/amanrai31//React2 ]
 
 - HTML, CSS JS/TS
 - Responsive design, Tailwind
@@ -41,7 +43,10 @@
 
 
 
-
+#### Interview Tips
+1. Do not say sorry, tell them whatever you know
+2. Talk & code, give multiple solutions (if possible)
+3. Ask some relevent question in the end.
 
 
 

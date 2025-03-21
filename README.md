@@ -17,6 +17,8 @@
 
 [Angular repo - https://github.com/amanrai31/angular]
 
+[JS repo - https://github.com/amanrai31/JavaScript]
+
 - HTML, CSS JS/TS
 - Responsive design, Tailwind
 - JS Frameworks (NEXT.js, React, Angular, vue)

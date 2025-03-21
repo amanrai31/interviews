@@ -10,8 +10,12 @@
 
 
 2. FrontEnd
+
 [FrontEndTech repo - https://github.com/amanrai31/frontendTech]
+
 [React repo - https://github.com/amanrai31/React1  https://github.com/amanrai31//React2 ]
+
+[Angular repo - https://github.com/amanrai31/angular]
 
 - HTML, CSS JS/TS
 - Responsive design, Tailwind
@@ -23,6 +27,8 @@
 - Deployment
 
 3. BackEnd
+
+[repo - https://github.com/amanrai31/NodeFullstack] // Update these
 
 - Language (JAVA, JS, GO)
 - Framework (SpringBoot, Node/express, Gin)

@@ -38,7 +38,9 @@
 - Caching & proxy(redis)
 - Testing (unit, integration, E2E)
 - Containerization (DOCKER)
+  
 **ADV**
+  
 - Orchestration & management (K8S)
 - Message brokers (Kafka, Rabbit MQ)
 - NGINX (proxy, caching, firewall)

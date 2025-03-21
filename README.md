@@ -13,7 +13,7 @@
 
 [FrontEndTech repo - https://github.com/amanrai31/frontendTech]
 
-[React repo - https://github.com/amanrai31/React1  https://github.com/amanrai31//React2 ]
+[React repo - https://github.com/amanrai31/React1  https://github.com/amanrai31//React2 ] //Update these
 
 [Angular repo - https://github.com/amanrai31/angular]
 
@@ -38,7 +38,7 @@
 - Caching & proxy(redis)
 - Testing (unit, integration, E2E)
 - Containerization (DOCKER)
-**ADV.**
+**ADV**
 - Orchestration & management (K8S)
 - Message brokers (Kafka, Rabbit MQ)
 - NGINX (proxy, caching, firewall)

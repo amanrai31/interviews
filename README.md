@@ -51,7 +51,7 @@
 
 
 
-#### Interview Tips
+### Interview Tips
 1. Do not say sorry, tell them whatever you know
 2. Talk & code, give multiple solutions (if possible)
 3. Ask some relevent question in the end.

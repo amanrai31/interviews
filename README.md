@@ -49,7 +49,7 @@
 - Rate limiting, CORS
 - Design patterns (HLD)
 
-
+---
 
 ### Interview Tips
 1. Do not say sorry, tell them whatever you know

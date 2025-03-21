@@ -2,14 +2,14 @@
 
 ## ROAD
 
-1. DSA, JAVA basics, PgSQL  [repo- https://github.com/amanrai31/JavaAndDsa]
+### 1. DSA, JAVA basics, PgSQL  [repo- https://github.com/amanrai31/JavaAndDsa]
 
 - JAVA => JAVA Basics,OOPS, collection, thread, garbage collection
 - DSA => list, map, tree, graph, recurssion, backtracking, DP, ALGOs
 - PgSQL => Basic quries, Transections(ACID), Indexes, DB Administration
 
 
-2. FrontEnd
+### 2. FrontEnd
 
 [FrontEndTech repo - https://github.com/amanrai31/frontendTech]
 
@@ -26,7 +26,7 @@
 - Testing & debugging
 - Deployment
 
-3. BackEnd
+### 3. BackEnd
 
 [repo - https://github.com/amanrai31/NodeFullstack] // Update these
 

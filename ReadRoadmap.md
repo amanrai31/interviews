@@ -1,5 +1,3 @@
-# ROADMAP & INTERVIEW
-
 ## ROAD
 
 ### 1. DSA, JAVA basics, PgSQL  [repo- https://github.com/amanrai31/JavaAndDsa]

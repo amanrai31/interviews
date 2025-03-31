@@ -66,4 +66,4 @@ Personal projects
 
 2. zepto clone
 
-3. stock market APIs
+3. stock market APIs [https://github.com/maanavshah/stock-market-india]

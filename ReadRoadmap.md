@@ -62,6 +62,8 @@ Cheat site for interviews [https://1point3acres.com]
 
 Personal projects
 
-IAM Flow
-zepto clone
+1. IAM Flow
 
+2. zepto clone
+
+3. stock market APIs

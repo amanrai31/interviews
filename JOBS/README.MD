@@ -22,6 +22,8 @@ Product based startups (Deploy IAM FE/BE, Strong development)
 
 **MAIN :** Vercel, supabase, render, netlify, stealth startup | strapi, mollie | Tabby, kitopi | xendit, aspire, carousell
 
+**OTHER GIANTS :** Google, Atlassian, linkedin, slack, netflix, dropbox, nvidia, jane street.
+
 ----
 
 

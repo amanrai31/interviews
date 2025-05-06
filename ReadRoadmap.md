@@ -64,6 +64,6 @@ Personal projects
 
 1. IAM Flow
 
-2. zepto clone
+2. zepto clone (organic food items)
 
 3. stock market APIs [https://github.com/maanavshah/stock-market-india]

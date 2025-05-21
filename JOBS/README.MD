@@ -36,10 +36,7 @@ LinkedIn, weWorkRemote, topTal, wellFound, remote.co
 1. US => gopuff, clasp, codaMetrix, lambda labs, Anysphere, cohere health
 2. EU => synthace, what3words, revolut, klarna, vay, lindus health
 3. UAE/Singapore => careem, settleMint, yalla || grab, ninja van, advance.ai
-
-
-
-
+4. INDIA => ThoughtWorks, ZS Associates, EPAM Systems, Globant, Nagarro, Cimpress (Vistaprint), Persistent Systems.
 
 
 

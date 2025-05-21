@@ -1,8 +1,12 @@
-Where to find jobs
+## Where to find jobs
+
 LinkedIn, weWorkRemote, topTal, wellFound, remote.co
 
+----
 
-Investment firms (Strong DSA, BE/microservices, Stock market APIs,flx protocol,algo trading, HFT concepts, order matching engine, low latency and scalable system)
+## Investment firms 
+
+(Strong DSA, BE/microservices, Stock market APIs,flx protocol,algo trading, HFT concepts, order matching engine, low latency and scalable system)
 
 1. US => Fidelity, charles schwab, Robinhood, ETrade, TDAmeritrade, Jane Street 
 2. EU => Revolut, Degiro, Trade republic, eToro, Plus500, saxo bank
@@ -15,7 +19,8 @@ Investment firms (Strong DSA, BE/microservices, Stock market APIs,flx protocol,a
 ----
 
 
-Product based startups (Deploy IAM FE/BE, Strong development)
+## Product based startups (Deploy IAM FE/BE, Strong development)
+
 1. US => vercel, fly.io, gitlab,automattic, posthug replit, hashnode, supabase, render, netlify, stealth startup.
 2. EU => hotjar, typeform, strapi, mollie, graphCMS
 3. UAE/singapore => Tabby, kitopi || xendit, aspire, carousell
@@ -27,7 +32,7 @@ Product based startups (Deploy IAM FE/BE, Strong development)
 ----
 
 
-Service based startups
+## Service based startups
 1. US => gopuff, clasp, codaMetrix, lambda labs, Anysphere, cohere health
 2. EU => synthace, what3words, revolut, klarna, vay, lindus health
 3. UAE/Singapore => careem, settleMint, yalla || grab, ninja van, advance.ai
